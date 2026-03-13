@@ -99,4 +99,4 @@ password: user123
 
 ## Author
 
-Created as a personal project to practice **PHP full-stack web development and database-driven applications**.
+Created as a project to practice **PHP full-stack web development and database-driven applications**.
